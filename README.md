@@ -1,4 +1,4 @@
-sorm
+SORM Framework has migrated!
 ====
 
-An original repository of SORM Framework
+Official SORM Framework repository has migrated to [github.com/sorm/sorm](https://github.com/sorm/sorm).
